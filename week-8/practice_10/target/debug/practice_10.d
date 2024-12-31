@@ -1,0 +1,1 @@
+C:\Users\RUKEVWE\Desktop\RUKEVWE\DOCUMENTS\R.agoloCSC101-SEN\week-8\practice_10\target\debug\practice_10.exe: C:\Users\RUKEVWE\Desktop\RUKEVWE\DOCUMENTS\R.agoloCSC101-SEN\week-8\practice_10\src\main.rs
