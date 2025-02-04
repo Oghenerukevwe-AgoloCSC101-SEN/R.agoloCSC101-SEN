@@ -1,0 +1,1 @@
+C:\Users\RUKEVWE\Desktop\RUKEVWE\DOCUMENTS\R.agoloCSC101-SEN\week_14\globacom_db\target\debug\globacom_db.exe: C:\Users\RUKEVWE\Desktop\RUKEVWE\DOCUMENTS\R.agoloCSC101-SEN\week_14\globacom_db\src\main.rs

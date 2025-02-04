@@ -1,0 +1,11 @@
+C:\Users\RUKEVWE\Desktop\RUKEVWE\DOCUMENTS\R.agoloCSC101-SEN\week_14\globacom_db\target\debug\deps\librand_core-282b3ad8e620c9f5.rmeta: C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src/lib.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\block.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\impls.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\le.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\os.rs
+
+C:\Users\RUKEVWE\Desktop\RUKEVWE\DOCUMENTS\R.agoloCSC101-SEN\week_14\globacom_db\target\debug\deps\librand_core-282b3ad8e620c9f5.rlib: C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src/lib.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\block.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\impls.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\le.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\os.rs
+
+C:\Users\RUKEVWE\Desktop\RUKEVWE\DOCUMENTS\R.agoloCSC101-SEN\week_14\globacom_db\target\debug\deps\rand_core-282b3ad8e620c9f5.d: C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src/lib.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\block.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\impls.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\le.rs C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\os.rs
+
+C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src/lib.rs:
+C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\block.rs:
+C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\impls.rs:
+C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\le.rs:
+C:\Users\RUKEVWE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.0\src\os.rs:
